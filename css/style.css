@@ -1736,7 +1736,7 @@ a:focus {
   font-size: 90px;
   font-size: 5rem;
   color: #fff;
-  margin: 0 0 0.4em;
+  margin: 300 0 0.4em;
   position: relative;
   z-index: 10;
 }
